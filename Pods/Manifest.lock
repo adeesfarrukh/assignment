@@ -1,0 +1,28 @@
+PODS:
+  - Cosmos (22.1.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+
+DEPENDENCIES:
+  - Cosmos (~> 22.1)
+  - NVActivityIndicatorView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - NVActivityIndicatorView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Cosmos: 2795b36ad4bbea1af3050d6d65576ed63875f86a
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+
+PODFILE CHECKSUM: a5c54a0b5601db5d609f5bf85634d20b4875c304
+
+COCOAPODS: 1.9.2
